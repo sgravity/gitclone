@@ -4,3 +4,4 @@ hhhhhah hahh
 chongtu de git 
 new branch git dev hh
 xiugai bug
+ceshi git stash
