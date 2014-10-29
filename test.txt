@@ -4,3 +4,4 @@ hhhhhah hahh
 chongtu de git 
 new branch git dev hh
 ceshi git stash
+add origin dev other dev
