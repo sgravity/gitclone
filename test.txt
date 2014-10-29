@@ -7,3 +7,4 @@ xiugai bug
 ceshi git stash
 master update dev
 duo ren xie zuo dev1
+add origin dev other dev
