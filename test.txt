@@ -10,3 +10,4 @@ duo ren xie zuo dev1
 ce shi svn up 
 add origin dev other dev
 duorenxiezauo 2222222
+test tags
