@@ -8,3 +8,5 @@ ceshi git stash
 master update dev
 duo ren xie zuo dev1
 ce shi svn up 
+add origin dev other dev
+duorenxiezauo 2222222
